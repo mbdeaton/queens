@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 # Brett Deaton - Dec 2021
 
-"""Find valid n-queens configurations.
-
-Find and count all the unique configurations of n nonattacking queens on an n*n
-chess board. See [OEIS A000170](https://oeis.org/A000170).
-"""
+"""Find valid n-queens configurations."""
 
 
 from random import randrange
