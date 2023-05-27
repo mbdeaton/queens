@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# For mybinder.org instance to include a queens package
+# For mybinder.org instance to include the queens package
 set -e
 pip install -e .
