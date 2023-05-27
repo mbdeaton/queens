@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "queens"
+version = "0.1.0"
+description = "Algorithms to explore the n-queens problem"
+authors = ["Brett Deaton <brett.deaton@gmail.com>"]
+license = "GNU GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
