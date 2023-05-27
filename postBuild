@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # For mybinder.org instance to include a queens package
 set -e
-echo "This is an example Brett thinks won't work"
-pip install -e queens
+ls *
+pip install -e queens/queens
